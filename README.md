@@ -1,1 +1,1 @@
-# Multi-instance-object-classification-detection-and-localization-of-pizzas
+#Implementation of Deep Neural Networks on image and text datasets
