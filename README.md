@@ -1,3 +1,4 @@
+# Implementation-of-Deep-Neural-Networks-on-image-and-text-datasets
 
 This repository contains my implementations of deep neural networks on image and text datasets executed as part of ECE60146 Deep Learning coursework.
 
